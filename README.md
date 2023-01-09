@@ -1,18 +1,26 @@
 # macedonia-travel-site
-
 *Work in progress*
 
-Travel guide to Macedonia. This site will act as a hub for all information relating to Macedonia such as:
+---
+
+This site will act as a hub for all things Macedonia. One visit will allow you to browse a ton of information 
+
+## Technologies
+
+- SvelteKit
+
+## Data to Include
 
 - Landmarks
 - Cities
 - Resources
 - Photographs
 - History
+- API data 
 
-## Possible Additions
+## Possible Future Additions
 
 - Guides
 - API integration
 - Flight / Booking information
-- Map / Geographical data
+- Map with data, filtering by keys such as cities, landmarks, etc.
